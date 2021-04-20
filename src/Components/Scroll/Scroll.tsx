@@ -1,4 +1,5 @@
 // https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll
+// https://rawgit.com/venkateshwar/slim-scroll/master/tests/test1/index.html
 
 import * as React from 'react';
 import { makeStyles } from '@material-ui/styles';
